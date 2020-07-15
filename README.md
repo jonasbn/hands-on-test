@@ -7,6 +7,7 @@ Here would be a image plus a small introduction to the content.
 - [The first section](#the-first-section)
 - [The second section](#the-second-section)
   - [With a subsection](#with-a-subsection)
+- [And now I am adding a section without changing anything locally](#and-now-i-am-adding-a-section-without-changing-anything-locally)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
