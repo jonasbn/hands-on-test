@@ -1,6 +1,6 @@
 Here would be a image plus a small introduction to the content.
 
-![Spellcheck](https://github.com/sQu4rks/hands-on-test/workflows/Spellcheck%20Action/badge.svg) 
+![Spellcheck](https://github.com/sQu4rks/hands-on-test/workflows/Spellcheck%20Action/badge.svg)
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
@@ -18,5 +18,5 @@ Here would be a image plus a small introduction to the content.
 ## With a subsection
 
 # And now I am adding a section without changing anything locally
-
-And now I will add a mispeled word.
+misspelled
+And now I will add a no longer wrongly written word.
