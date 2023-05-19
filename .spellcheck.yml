@@ -8,7 +8,6 @@ matrix:
     - .wordlist.txt
   pipeline:
   - pyspelling.filters.markdown:
-    comments: false
   - pyspelling.filters.html:
       comments: false
       ignores:
